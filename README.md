@@ -66,6 +66,7 @@ The dataset contains **960,045** entries, focusing primarily on the `review_body
    - Utilized NLTK's `SnowballStemmer` to reduce words to their root forms.
    - Tokenized, filtered, and stemmed the review texts.
    - Generated a word cloud to visualize the most frequent terms.
+   - Sentimental Analysis: Percentage of Positive Words
 
 3. **TF-IDF Vectorization:**
    - Converted the processed text data into a TF-IDF matrix.
@@ -188,8 +189,6 @@ To replicate this project, follow these steps:
 ---
 
 ## **Future Enhancements**
-- **Sentiment Analysis:**
-  - Integrate sentiment analysis to quantify positive and negative sentiments within reviews, providing a more nuanced understanding of customer opinions.
 
 - **Interactive Dashboards:**
   - Develop interactive dashboards using tools like Streamlit or Tableau to enable dynamic data exploration and visualization for stakeholders.
