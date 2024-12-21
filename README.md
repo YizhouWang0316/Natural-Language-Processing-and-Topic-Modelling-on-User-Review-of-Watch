@@ -22,6 +22,8 @@ Customer reviews provide invaluable insights into product performance, customer 
 ---
 
 ## **Dataset**
+https://drive.google.com/file/d/11hPPVXbw2bI85TvySgYi0bs9Oy-yeyTy/view?usp=drive_link
+
 The dataset used in this project includes the following columns:
 - `marketplace`
 - `customer_id`
