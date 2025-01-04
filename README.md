@@ -52,7 +52,7 @@ The dataset contains **960,045** entries, focusing primarily on the `review_body
   - **Natural Language Processing:** NLTK, SnowballStemmer
   - **Data Visualization:** Matplotlib, Seaborn, WordCloud
   - **Machine Learning:** scikit-learn
-- **Jupyter Notebook:** For interactive development and analysis
+- **Environment:** Google colab
 
 ---
 
@@ -179,14 +179,6 @@ To replicate this project, follow these steps:
 1. **Clone the Repository:**
     ```bash
     git clone https://github.com/YizhouWang0316/NLP-and-Topic-Modelling-on-User-Review-of-Watch.git
-    ```
-
-2. **Navigate to the Project Directory:**
-    ```bash
-    cd NLP-and-Topic-Modelling-on-User-Review-of-Watch
-    ```
-3. **Run the Jupyter Notebook:**
-    Open `watch_reviews_analysis.ipynb` in Jupyter Notebook and execute the cells sequentially.
 
 ---
 
